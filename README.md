@@ -1,12 +1,65 @@
-# React + Vite
+# 🛍️ E-Commerce Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive e-commerce website clone built while learning **React.js**. This project helped me understand React fundamentals such as components, props, state management, routing, and creating reusable UI components.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🏠 Responsive landing page
+- 🛒 Product listing page
+- 📦 Product details page
+- 🔍 Search and filtering UI
+- 🧩 Reusable React components
+- 📱 Responsive design
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- React Router DOM
+- CSS
+- JavaScript
+
+## 🚀 Getting Started
+
+Clone the repository
+
+```bash
+git clone <repository-url>
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+Open your browser at:
+
+```
+http://localhost:5173
+```
+
+## 📚 Learning Outcomes
+
+Through this project, I learned:
+
+- React Components
+- JSX
+- Props & State
+- React Hooks
+- Routing with React Router
+- Component-based architecture
+- Responsive UI development
+
+## 📌 Note
+
+This project was created **for learning purposes only**. It is a clone inspired by an existing e-commerce website and is **not intended for commercial use**.
+
+## 👨‍💻 Author
+
+**Nitin Mishra**
